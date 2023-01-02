@@ -6,5 +6,3 @@ This is my first portfolio website built using HTML and CSS
 It is a responsive site which appears as follows in mobile version
 
 ![image](https://user-images.githubusercontent.com/97385810/192110805-2d572d28-24ed-4c38-8b39-eaf8d5e87bf3.png)
-
-I took reference from the video https://www.youtube.com/watch?v=ZFQkb26UD1Y by Web Cifar.
